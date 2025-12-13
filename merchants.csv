@@ -1,0 +1,788 @@
+MERCHANT_ID,NAME,CATEGORY,SALES_MERCHANT
+d2513980-6eb5-4a3d-a66d-e4f213ef94d9,"Allen, Chan And Kemp",Restaurants,FALSE
+15642061-7a33-43c4-8e07-f87e6996dcd1,Hall And Sons,Restaurants,FALSE
+9d918e32-a215-4cdb-ac0d-f4862001c6be,Ortiz-Wilson,Retail,TRUE
+bc87780f-5f5a-468d-b644-2ff47fdb7578,"Wilson, Reid And Olson",Restaurants,TRUE
+81fc1a83-248e-4ef9-a1a2-eac7789f602e,"Munoz, Burnett And Stevens",Transportation,TRUE
+4e25a51c-de58-4160-b95c-3804d6ef96e9,Sandoval-Reid,Retail,TRUE
+d61271e6-99d0-49f3-b589-1fa78e9c6d66,Turner Llc,Retail,TRUE
+085b09a9-8c6c-4de6-a34e-4e77ab11e342,Johnson-Gonzalez,Services,FALSE
+61cbb79e-432f-49c5-9af5-99ca3734bc2e,"Gillespie, Murray And Stevenson",Restaurants,TRUE
+626cc210-8dba-4640-ab8d-5b4b9d0e3761,"Davidson, Sanders And Black",Health Care,FALSE
+90a941cc-2732-4219-a528-4b74bc0bcf35,Hall-Baker,Retail,FALSE
+8eb63367-993e-4590-92d6-059aa6ad177a,Robinson Ltd,Services,TRUE
+58ed1647-7fa2-49a4-85c3-3ae0a0acc00a,Freeman Plc,Services,FALSE
+01cd8fda-d21a-4c96-9aa1-36dff8a333d4,Herman-Long,Services,FALSE
+ba9576ec-7bc4-4586-a853-31c52cf4dbb4,"Thomas, Davis And Kline",Restaurants,TRUE
+28c90a1d-97a6-4b03-848e-17a167f4bb5c,"Banks, Dunn And Robinson",Restaurants,TRUE
+a85f1fe0-b214-4a2b-af93-7f89437c4296,Alexander-Miller,Retail,FALSE
+af7e8dac-e85e-40b4-b01b-e818d5acaee1,"Anderson, Khan And Thomas",Restaurants,TRUE
+20757c94-6228-46dd-b70e-8265906d087f,Newman-Mayo,Restaurants,TRUE
+21f4b78d-5701-40a9-96d0-10ec569b45a1,Young-Mcgee,Retail,TRUE
+ccec3c74-2a2f-4e7a-9eba-f9e9c0db01f1,Henderson Ltd,Restaurants,FALSE
+80b06875-7602-4c2d-8ad6-bac7a50fac38,"Hinton, Petersen And Mcdonald",Restaurants,TRUE
+295f7e41-c188-4129-80e3-f48a17bcccb4,Johnson Plc,Restaurants,TRUE
+2ca264bd-dc7a-43d5-85fe-5cf9b827e10f,"Hubbard, Vargas And Savage",Services,TRUE
+31be8738-13ac-4d80-9ad6-938501fddd10,Sanchez Llc,Restaurants,FALSE
+2de12f00-6df6-45d4-8eb2-1c41019447e9,Benjamin-Bishop,Restaurants,FALSE
+04078e99-9c96-45b5-9ca9-3e3f7ea4998f,"Ward, Keller And Thomas",Retail,TRUE
+6d3ceb9e-695e-4eb4-9d1a-bef832516ec7,Davis Plc,Entertainment,TRUE
+5f9d8746-bbed-4772-8b82-952abed7815c,Trujillo-Clayton,Restaurants,TRUE
+c860b8f4-e461-41dd-a7b9-e476fae9d622,"Smith, Richard And Fletcher",Services,TRUE
+282cb011-c9ee-4c2e-9d80-fc7941372e1c,Hampton Group,Health Care,TRUE
+8e492c79-c774-48d1-8854-77d325497859,Jackson Group,Health Care,TRUE
+1e57141d-a5fb-4bc6-8a9c-654313de6f2c,Hill-Escobar,Retail,TRUE
+b1ab6134-ac75-4df3-8c02-d60aa316c134,Lara Ltd,Restaurants,TRUE
+a2997c00-7130-42b7-ab48-cbf1fc19ff20,"Miller, Robbins And Ross",Services,FALSE
+d068ee00-8b2f-4070-94a7-43ab1fc0a527,"Wright, Huerta And Holland",Health Care,TRUE
+ab089b84-86fb-4dfe-9043-c313fb51e901,Mcdaniel-Barton,Services,TRUE
+d8cd8285-9426-45d7-881f-a7d43a932d4d,Williams And Sons,Retail,TRUE
+27cb8555-1f37-428b-80aa-e607123fe2a4,Lee Plc,Restaurants,TRUE
+afc74ed5-565d-4713-b496-486b285321b8,Kelly-Copeland,Restaurants,TRUE
+c5f59b40-59d7-4041-9cf6-d2b3bf4fe23c,Briggs-Lam,Retail,TRUE
+edc8bbff-04a0-4eec-b0e1-9253ae18c667,"Alexander, Downs And Howe",Retail,TRUE
+413dd53f-f922-44d9-88ad-1ef2d60e8f6e,Martinez-Fleming,Restaurants,FALSE
+15032330-193d-4a43-a990-0e75747dc9c3,"Ford, Faulkner And Jackson",Health Care,TRUE
+95f0841f-af7c-4bf8-b74d-418465e5b023,Fleming Llc,Restaurants,TRUE
+5160cec8-3fb8-40ba-8bb3-039fab5ff365,"Salinas, Nguyen And Meza",Restaurants,FALSE
+f49cf82e-1a3e-4f31-a024-80c12a377715,Peterson-Morgan,Restaurants,TRUE
+31cb7edc-3526-4c33-b957-455711d5b0eb,Kent Llc,Services,TRUE
+05d6c8f2-2c46-445b-99a4-6e67061f6277,Woods Group,Retail,TRUE
+48fb334e-9076-49d1-a431-9adbc6016a45,"Small, Velazquez And Peters",Entertainment,FALSE
+06b90619-ec1e-4c45-8d23-b9c29c967fb9,David Group,Services,FALSE
+62f6a11d-ceab-4aec-bd1d-a192cf0d0c22,Thomas-Sanchez,Restaurants,TRUE
+42e2a920-ef12-4a05-b319-70b26a01d893,Murphy-Sanders,Retail,TRUE
+9b9ef622-5bc5-43fa-8d1f-3a659d2d246f,Serrano-Murphy,Retail,TRUE
+ef927ab2-4b4e-4486-982b-2cbc86eb6bdb,"Thompson, Walters And Edwards",Restaurants,FALSE
+be90aa3f-5b99-42a4-a57d-0c1f70188e2e,Daniels Inc,Restaurants,TRUE
+841e134f-1835-4427-a8a5-b1318b97bd2a,Perez-Phillips,Restaurants,TRUE
+a5a5d529-1be9-4f09-9646-91cdcf777aed,Evans Ltd,Services,TRUE
+90afcae7-058e-4432-8b53-8a93b5736c44,"Thomas, Koch And White",Transportation,TRUE
+05cb0045-3a39-4bae-ac4f-d8156865f0e3,Gomez-Andrews,Services,TRUE
+db4eec75-2fdc-4257-ba74-4ac08d4e6aa1,Garcia-Foster,Health Care,FALSE
+d63cc791-5ce0-4b6a-a59b-0e07717fc76e,Wright Ltd,Health Care,TRUE
+8029ac19-166b-4fd8-a7f2-c988dd75d570,Williams Plc,Entertainment,TRUE
+b8533858-5cf3-4e4b-b74e-4d2677c984e5,Parker-Pierce,Retail,FALSE
+13b48c89-e10c-45d8-bc50-58b9bd9280b7,"Mays, Boyd And Russell",Restaurants,FALSE
+38532597-55d8-4125-8653-fb2497f3b009,"Schmidt, Herrera And Stone",Services,TRUE
+a592a5c8-b1c0-4b4c-924b-cdc9b82ecb01,"Delgado, Hill And Chase",Transportation,TRUE
+10cc1af2-d2b2-484f-ad0b-e578a1020c34,"Jordan, Larson And Moore",Retail,TRUE
+9946c80b-1f35-4aa3-9812-b6749ce2828d,Wise-Franklin,Restaurants,TRUE
+aa18b8d1-839c-49cb-afc5-1acbf5fbe712,Moore-Williams,Restaurants,FALSE
+4de58ed0-1fbf-4a52-b991-03fe1f73c0a7,Washington-Flores,Services,FALSE
+b21431b3-6148-4772-b371-4a086437f427,Morrison Group,Services,FALSE
+44bd753f-3222-46d5-903f-273a625357c3,Young-Lynn,Health Care,FALSE
+762630f9-e0c3-4c51-932a-dcb1fcb9de4f,Hartman-Anderson,Restaurants,FALSE
+afd81b76-3bba-4047-b7e9-df67788faf67,Maddox Group,Retail,TRUE
+c107a355-2594-4d02-8042-7a9af98090a7,"Smith, Pacheco And Howard",Health Care,TRUE
+55448bfd-8b1d-4c09-b9f6-2faefee9b0d4,"Johnson, Wood And Harris",Restaurants,FALSE
+dca1225e-3ced-4ee7-bdb2-ebcbd320919f,Perry Inc,Services,FALSE
+b60406c6-941b-4663-a201-acb4cb684fd4,"Porter, Kane And Nguyen",Services,TRUE
+c4e04696-f78b-442b-aa27-98732b619400,Wolf Llc,Retail,TRUE
+6ab347b6-bb68-432b-a568-91ce9a3a9c77,Anderson-Jimenez,Health Care,TRUE
+c37900b2-e5b4-4e48-8a45-74543cd536c7,Mills Plc,Restaurants,FALSE
+a9dddb37-fa2f-4482-9d3c-0961476b8615,Jimenez Group,Retail,TRUE
+ec227a2b-c751-4909-bccc-e554aaece694,Sanders-Ewing,Restaurants,FALSE
+b1afcb11-e014-4a83-a619-f3261ecc2536,Marshall-Schwartz,Health Care,TRUE
+af08b6e7-fd01-4b1d-98ba-cde5efef8043,Ramirez-Clark,Health Care,TRUE
+bfdf4b1d-da9a-43a4-a360-e2a28e040147,Barrera Plc,Restaurants,TRUE
+c8183d01-f314-4f0d-a73a-133cc8eae70a,Walker Inc,Retail,FALSE
+09e31740-16ff-4e04-b801-f91a18680c4f,"Little, Stokes And Valenzuela",Entertainment,TRUE
+5c34a30a-f3eb-479e-89b1-960a4758b45a,"Mcguire, Edwards And Ray",Restaurants,FALSE
+f195853f-e303-4cdc-bdd5-35a031bb0343,"Griffith, Moore And Bender",Services,FALSE
+5bc28b11-1b44-4af5-b771-c1c73de3d1ff,"Rodriguez, Ruiz And Webb",Services,FALSE
+27535910-5ed8-47de-bbd1-b6d0c6dc164d,Carter-Clark,Restaurants,TRUE
+680e417c-d2c1-41bc-8663-f8b57fa23561,"Delgado, Klein And Kline",Restaurants,TRUE
+87ed777d-057b-428f-82ef-a5fe738d9d59,Zimmerman-Oconnor,Restaurants,TRUE
+25a4c1be-4878-4044-820a-91334497bc0c,Carr-Pittman,Restaurants,TRUE
+e81b66b2-8b44-4a49-9b4c-4368ceb42f7e,Gregory-Russell,Restaurants,FALSE
+1874cfdf-f69b-4f4a-a175-4db98aae5fd2,Smith-Taylor,Retail,TRUE
+7d28495f-7b6f-4058-b502-58a30cee29f4,Jenkins And Sons,Entertainment,FALSE
+ac777b72-475e-4dec-b311-d730a7e241bb,Ray-Miller,Health Care,FALSE
+9c9f98c0-70bd-4f8f-99af-025cf8e3001c,Cruz-Pearson,Retail,FALSE
+252dd939-86be-473c-a287-eabbca966a64,Shaw Ltd,Services,TRUE
+f9588ce9-b00a-4e38-92ef-72b9af0ed353,"Russell, Williams And Allen",Restaurants,FALSE
+84bb3f5b-8011-4014-aea5-5c35df4a7f35,Sandoval-Lee,Services,TRUE
+d790eb11-509b-489d-a09d-388bd1ad8d12,Hall Group,Retail,FALSE
+4744e4d8-d031-4a70-9acf-ee9f17bf02cf,"Daniel, Gray And Baker",Entertainment,FALSE
+017039b3-3b58-4668-b1d3-deb8151e0fa4,Williams Inc,Entertainment,FALSE
+3619cb58-8b5b-4aeb-bc2e-b3152e74ff73,Smith Ltd,Services,TRUE
+bb419023-79b3-44ff-b502-717651c0e0c9,Rodriguez-Collins,Restaurants,FALSE
+fed44e00-2e7e-4d51-b0c8-5575c9547238,Thompson Ltd,Services,FALSE
+c41e3933-ba35-4592-9905-8213786fac3c,Sanchez Inc,Transportation,FALSE
+261c8739-168b-42b7-94db-b9c1171833bb,Garcia-Hall,Health Care,FALSE
+b93afde6-b5a2-4fb4-b0c5-d771cd443a23,Jackson-Miller,Health Care,TRUE
+e0451044-5529-40de-a312-d07f433156a7,Hamilton-Hayes,Restaurants,FALSE
+f6965276-62e4-4970-9bb2-df8d6d21d5e9,Velasquez Ltd,Health Care,FALSE
+bc0adac1-9ee1-43d8-9d15-47e126c6c9b1,Aguilar-Garcia,Retail,FALSE
+09e176a4-119f-4ad0-8fb1-e9e7ca5612b9,Tate-Maldonado,Services,FALSE
+4165bca5-7048-4fb4-bc35-38718c6b2caa,"Carter, Lara And Smith",Restaurants,TRUE
+10f497d0-30bd-4e07-9958-ccab305e38a1,"Cooke, Harper And Reeves",Restaurants,TRUE
+3f031f6c-10c7-45c2-a085-3e0ae5e4cd56,Rogers-Lane,Restaurants,TRUE
+9a5f9e6d-504e-485f-b382-0e403af711bf,Douglas-Reed,Health Care,FALSE
+03d59dbf-091a-41bb-b93e-f00f8d8c9486,Watson-Donaldson,Services,TRUE
+bbb45d2d-c555-4d43-bf37-3c07106e9301,Hill-Johnson,Retail,TRUE
+e33d1fae-e558-4c50-8a4a-506757cf2723,Williams Llc,Services,TRUE
+f19ccef2-b7f7-4ddb-a8b5-d5ef1b34d23e,"Hoffman, Flores And Zimmerman",Services,TRUE
+598e6c54-8f95-4528-b049-55e28ca847e4,Lozano-Nelson,Restaurants,FALSE
+93b50990-3dc0-4ec7-bd3e-6e14d4cb4f2e,Olson-Pugh,Services,FALSE
+4b63a683-429c-45aa-a3d2-06ba9b453f42,"Ballard, Robbins And Edwards",Restaurants,TRUE
+713a01b4-5603-4b55-a1e3-d69f07084d35,"Martin, Lewis And Chen",Services,FALSE
+d243bb0c-307d-4ea5-a7e2-39c896239603,Garrett Ltd,Restaurants,TRUE
+a7f69fcf-5d5d-4c62-8dbf-fbc525bdd298,Warren-Mcdonald,Restaurants,FALSE
+b3d3f089-bbed-4303-8735-eadf0c192269,Perez-Williams,Restaurants,FALSE
+9d14f1d4-1dac-4c7e-997c-1824c601cedc,"Bailey, Hicks And Harrison",Restaurants,TRUE
+2677f882-b97c-45f1-8e35-915f95e4f5a0,Bartlett And Sons,Retail,TRUE
+c7edda8c-7e15-40dc-96a8-579da735de71,Maldonado-Miller,Retail,TRUE
+e1f68225-4821-4bb0-96cc-6d8511aa8fca,Bailey-Hart,Restaurants,TRUE
+d6f58b00-f5b0-4339-bafc-b2cc0371b9c6,Lee Inc,Retail,FALSE
+08f2f3d4-4cc5-4a1f-9548-c07198cfa6da,Watson-Baker,Restaurants,FALSE
+aa868569-5a49-4db6-8264-e3bf88a1a782,Hampton-Davis,Restaurants,TRUE
+4b6d98ec-fe53-4b51-9805-5cb4a6ac5067,Duarte And Sons,Services,TRUE
+099b1271-2f04-4c3c-a6a4-d1c3a6bbfe75,Harrison Group,Entertainment,TRUE
+3bfb0246-3277-4aea-a7a0-552cfb72fd7c,"Hamilton, Hernandez And Hamilton",Retail,TRUE
+2fdaed9b-735c-40fc-844a-7958a19f96ec,"Cowan, Reynolds And Chang",Retail,TRUE
+e0ae31d9-4ca7-4881-80ab-d21677887e47,Jackson-Chandler,Services,FALSE
+0c513b53-a7e2-4c87-85ea-cf8ceae1bfff,"Peters, Vaughan And Malone",Health Care,TRUE
+90237ac5-8292-4a3c-865b-cd09c48921ad,"Johnson, Horton And Caldwell",Health Care,TRUE
+16cd8589-a07b-44ac-9d7b-354760abe07a,Miller-Owens,Restaurants,TRUE
+3e7cbf88-e6cf-4e97-a8a9-5d4117dc9b7b,Castillo-Green,Restaurants,FALSE
+aed989e3-6a1e-4a6b-88f9-5885b2277b85,Wu Plc,Services,TRUE
+6df3ba1d-ff17-4715-a25d-7cd418b35059,"Hill, Cochran And Sexton",Retail,TRUE
+e7fe38fb-a6af-4c89-bc0d-1ec7bf4588ea,"Scott, Johnson And Walters",Health Care,TRUE
+798d2aa9-1ad7-467e-8586-b79ebe0d57ea,Price Ltd,Restaurants,TRUE
+17c9045b-4dc5-4617-b6cf-8d668a9826f5,Anderson-Harris,Services,TRUE
+7f723e09-e848-4581-bc08-13b6be9c69e8,Black Llc,Restaurants,TRUE
+5a4553f8-c252-44b7-8c52-fff1c0914f15,Johnson-Randall,Health Care,TRUE
+ed730b90-851f-4123-95c0-70b7a4583be2,Ferguson-Ryan,Retail,TRUE
+935c5d3f-95f0-4622-b39f-b3ffb1262458,Barron-Castillo,Restaurants,FALSE
+3e938857-de10-4edd-82bc-ca1d3cded511,Smith-Anderson,Retail,FALSE
+f2d5fd93-3df8-46da-8f1a-d95186041180,Wilson Ltd,Services,FALSE
+435f1c13-2c6c-40a7-a574-f908f39282cd,Waters-Myers,Retail,FALSE
+f33afeba-28ab-442c-8dad-fa2391d4a7f5,"Brown, Zimmerman And Johnson",Retail,FALSE
+be1a1312-e3e3-4eec-84c1-1fd11e1e8d39,Johnson Group,Restaurants,TRUE
+33f39de3-3d9d-4891-aefc-701e3a5d95af,Henderson-Brown,Retail,TRUE
+9c218d33-634a-4f4b-8337-011997a7da2a,West Llc,Retail,TRUE
+c1ca24bc-dd0f-431b-bc73-5738e6250c37,Kidd-Garner,Retail,TRUE
+65d1390a-5394-4c41-83e9-d55bd49424fd,Sutton Plc,Restaurants,TRUE
+6418e735-2d8d-4a83-8afd-8d2bc0467c62,"Robertson, Anderson And Hopkins",Restaurants,FALSE
+047ba1f4-532e-4683-a357-55b57a489689,Allison-Robbins,Restaurants,TRUE
+26d16762-77e8-4458-adfa-d2ddb7dfe6e0,Roberts Inc,Restaurants,TRUE
+d7001f91-078a-43ee-8a1e-f723939f9585,Wright-Quinn,Restaurants,TRUE
+fae961d5-3ef7-40de-bba4-924f437221b1,Hodges And Sons,Restaurants,TRUE
+8868b8c5-460c-4a81-a997-b4b939906943,"Booth, Vaughan And Collins",Restaurants,TRUE
+b253f7c8-3595-45a3-b42a-d1b24d710c1c,Brown Plc,Retail,TRUE
+cab577b0-fdc0-42e8-9591-256660545506,Hernandez And Sons,Health Care,TRUE
+6122e90a-8561-4216-926b-db147e6dcd7a,Kirk Ltd,Retail,TRUE
+cee3f700-75f7-4b50-9090-d31a4ae56075,"Houston, Holden And Collins",Services,TRUE
+7b222b5a-ea1e-4a33-a6ed-b38ca7511c66,"Myers, Kane And Zhang",Retail,TRUE
+c49e500e-a1ab-42b6-a1b8-f85e2dc5f2ff,"Chan, Mooney And Lee",Retail,FALSE
+59d8729c-e0f1-411a-95af-75e3367b1d03,Wood-Barker,Health Care,TRUE
+58365f58-881f-4529-9d70-c5f34e45ab3e,Barker Inc,Retail,TRUE
+022ddb2a-f272-4b3b-ba30-02b12739aa5b,Pugh-Cruz,Retail,TRUE
+a1ab6272-9096-47be-ad22-312a23372ab1,White Ltd,Retail,FALSE
+68c767bd-d0ac-40de-9bca-38277e9580fa,Thompson Ltd,Restaurants,TRUE
+97c7af5d-fa2f-4c81-833d-9182f7757878,Brown-Black,Services,TRUE
+8393882f-1515-48ff-9dae-bd0663222218,Jarvis-Conley,Retail,TRUE
+901d1a22-3356-4eb8-9dea-70d8e5a6b0f2,"Mitchell, Bowman And Figueroa",Retail,TRUE
+6ba71151-e32b-45a6-b0e6-80b644347c56,Knight Inc,Restaurants,FALSE
+cce5b7cd-a128-4cce-b815-3f6897d4a2ee,"Parsons, Ferguson And Jacobs",Restaurants,FALSE
+9b8b5e36-fbd3-4f88-b5ce-deaf2190e7c2,Welch Ltd,Retail,TRUE
+be9ab061-4b22-443e-bdac-1fbe33110fba,Gonzales And Sons,Restaurants,TRUE
+481abc8b-d594-47e6-ad21-3b91f673d34b,Shepherd And Sons,Transportation,FALSE
+f8d6683b-73a5-45f4-92f1-ec3b89ce27ce,Horton Plc,Transportation,TRUE
+fc29136f-bf5b-4b44-9717-ab37a9085234,Ellis-Moore,Services,FALSE
+908c38c1-127e-413a-9bfd-be239011177d,West-Newman,Restaurants,TRUE
+4e80dd27-3a75-4646-8c60-17c152d7c0ff,Petersen Plc,Retail,TRUE
+70863c6c-86ce-4dab-9fa9-078ec3c27733,Ponce Ltd,Restaurants,TRUE
+36b8ec40-bee7-490a-b450-34a0eceb34e7,Dunn-Russell,Restaurants,TRUE
+92ea4540-dbc3-46ab-ab25-23c8b2b30c1f,Williams-Butler,Retail,FALSE
+5090d3dd-799d-4da2-963d-9418aaeee344,Hicks-Rivers,Restaurants,TRUE
+a84032ac-ff91-4728-9964-65e7131306cd,"Castro, Houston And Dunn",Restaurants,TRUE
+ee26d2e0-4d85-4d8e-ae2c-e1d8408a0c75,"Huerta, Maldonado And Bradford",Retail,TRUE
+cb487320-8e23-4045-87db-b54f7d30d5c3,Young Group,Entertainment,FALSE
+00782bac-70d1-484a-b276-598cb4535bad,Liu Ltd,Retail,FALSE
+5b2e1b3a-5225-4838-98e5-11431e5a547e,Ward-Neal,Restaurants,TRUE
+6f61086f-6f52-456e-9e1e-d26687f15062,Hickman Inc,Restaurants,FALSE
+9210d710-8e99-4fa4-bc32-4b7f88e3e5db,Sanders Plc,Restaurants,TRUE
+174e9d68-ff2a-48a5-b8e4-6a113183a1ce,"Rivers, Flores And Welch",Restaurants,TRUE
+00bae318-fcda-49a1-96c6-2b2e923e98ac,"Garcia, Rose And Harmon",Services,TRUE
+4ea6232e-818f-4192-9543-3372d7b610e3,Miles Plc,Retail,TRUE
+2202f4e7-3e73-4d16-9095-917cdba33242,Nunez-Ryan,Retail,TRUE
+431a84af-7720-4070-a7cb-e660785de787,Soto Llc,Restaurants,FALSE
+8b125f38-4d53-4473-8c48-533743df0823,"Garcia, Burgess And Huynh",Retail,FALSE
+1631bce0-27ba-4768-bc06-dc54f5f99793,Smith-Aguilar,Retail,TRUE
+f1a81424-c0c1-4bca-b2ba-7d35205a0d43,Long-Vargas,Health Care,TRUE
+cfadeaf3-e4ae-4e08-9dfc-da1be4b93fa0,"Tran, Carr And Wilson",Restaurants,FALSE
+584a59c9-7070-48d2-84c8-88c9d1fe978c,Robinson-Dominguez,Restaurants,TRUE
+a1fa8f28-4af4-4727-afa8-69785c81a716,Preston-Smith,Restaurants,FALSE
+68681ce7-51b6-43bf-843c-6fabed40733b,Tyler Group,Entertainment,TRUE
+a19ac332-cfd3-42a1-a166-1da49a2bc9fe,Park-Jones,Restaurants,TRUE
+601b5a23-eaf7-4064-877b-d382d4414025,"Potts, Wilcox And Nelson",Retail,FALSE
+771a792e-f0f2-4570-a534-c6ed18e19399,"Anderson, Riddle And Galloway",Retail,TRUE
+d7075020-99a2-4d19-94ca-89683b0cda2d,Cole And Sons,Restaurants,TRUE
+90cf67bc-863f-4a51-b73e-a702b9277dbb,Cox-Romero,Entertainment,TRUE
+728d4166-2762-449d-bf90-368f13599471,"Tran, King And Ward",Services,TRUE
+f7152ecc-ce2b-4da3-aeeb-3005d98adc44,Bryant And Sons,Restaurants,FALSE
+d8ef1a95-7065-430c-b688-16499996e351,"Sims, Nelson And Roberts",Retail,TRUE
+17b91ef0-b846-4f23-ac79-5335f3f6f5b6,Williams Llc,Services,FALSE
+77af6e7e-c92a-4211-a2c0-900d154ef4f5,"Stephens, Smith And Gomez",Restaurants,FALSE
+dbcb6aab-5796-409a-bb2a-cc9a75778f3f,"Winters, Gibbs And Richardson",Retail,TRUE
+5634041f-81e3-47b4-a0fc-b1bf1ac178f7,Werner-Wilson,Entertainment,TRUE
+9b0a3d16-bcec-491f-bfe0-e9c3bdc7f2cc,Mcdowell-Rose,Services,TRUE
+0fe07b0f-fcfb-40d7-a8e0-db0061d0aaa2,Hill-Richardson,Retail,FALSE
+a72bbd3e-4355-485d-a336-c5309524e5e4,"Obrien, Macias And Black",Retail,TRUE
+057b49e7-9aea-4e82-82c6-0629da7c0912,Berger-Coleman,Restaurants,TRUE
+37795428-a7a7-4441-aafa-f462b1429338,"Gonzalez, Davis And Thomas",Restaurants,TRUE
+6cdeec35-c63b-44b9-a3ba-ad3a31f6886e,Jones-Davis,Retail,TRUE
+2865a234-9a4c-4382-8cf3-3e284344c2ce,Key Plc,Health Care,FALSE
+a566fc7e-fd58-46d1-b112-97b02f54172e,Bowman-Morrow,Retail,TRUE
+fbb79123-66a4-4c75-aef6-116829b8dbbe,"Washington, Middleton And Burke",Services,TRUE
+9fb85b40-02ec-48c1-ac9a-3a291b9e5558,"Holmes, Hernandez And Rodriguez",Restaurants,FALSE
+59176455-828a-48b8-80e1-97dbaf08a8a8,Levine-Solis,Restaurants,TRUE
+d609b23a-26d3-4848-b594-777f3fa21bb1,Kent Inc,Services,FALSE
+802fc85f-65f5-41b5-a347-36f1bb74bf0c,"Collins, Boyd And Hill",Restaurants,FALSE
+b05fdd48-06f6-40d5-853a-0cc5fd502753,Anderson Inc,Restaurants,TRUE
+178747e6-8a67-4b57-ba18-6b4c7482c467,Pacheco Inc,Retail,TRUE
+1654d9e5-0602-4c22-9a1b-3afdafc1b847,Diaz-Andrews,Retail,TRUE
+01e8e260-773d-43b4-9a56-06621348fb8e,Moss Inc,Restaurants,FALSE
+b7eb9d8c-9ebc-4b51-80fe-0d88cf6def9d,Mclaughlin And Sons,Services,TRUE
+54c99c50-c177-4adb-b6a5-6b06af29e9b5,Jones-Hernandez,Services,TRUE
+4381293c-b57b-44c9-874e-f41d177be1c4,Taylor-Christian,Restaurants,FALSE
+f24f33c5-5cd5-477b-9095-c0f96622382a,"Montgomery, Preston And Gonzales",Services,TRUE
+dacbf70a-255b-4462-9710-120fd6436db9,Fleming And Sons,Health Care,FALSE
+c115ae3a-6e05-4c8e-8c08-2a114e117638,"Riley, Sanchez And Roth",Restaurants,TRUE
+ae3e6d11-d697-41c9-b119-e15ba066f4f7,"Williams, Dunn And Hansen",Restaurants,TRUE
+08912d75-6e88-4b76-b60d-0b98fb8d2eb7,"Allen, Martinez And Haynes",Retail,TRUE
+4c6f9bda-566b-46cf-8f7f-5b0896361864,Hernandez And Sons,Restaurants,TRUE
+c35ff4fa-d464-4008-98b8-7733b951e97c,Bradshaw Ltd,Restaurants,TRUE
+e8f9f126-783f-4cef-b3ca-b9cb43f043e9,Romero Inc,Services,TRUE
+cda15aec-759e-432e-af57-6c4e655bf2fb,Hill Group,Health Care,FALSE
+3e921947-de81-489a-a4c0-f95fd7cba35b,"Gonzalez, Campbell And Smith",Services,FALSE
+f19385a4-6493-4f5c-a46b-97252472376a,"Jones, Spears And Adkins",Health Care,TRUE
+d97d3add-d76a-4163-9ec6-d6ff52dc6f7d,"Townsend, Hopkins And Davis",Services,FALSE
+f85e38bc-af85-4fb6-b1f3-da787f6c8c5a,Fleming Group,Retail,TRUE
+5bcac744-79e4-4b9b-ba49-535a99b4ec8f,Robinson-Goodman,Restaurants,TRUE
+efa3db16-f926-4c30-ba55-70934d5d429b,Lopez-James,Health Care,TRUE
+dcec2a01-f966-4952-bb59-509ee829d48c,Williams-Wright,Restaurants,TRUE
+a95d6c47-5596-4860-8224-51c4fe6dabd4,Graves-Little,Health Care,FALSE
+d775d5e1-b2f3-4e2f-b524-e4a564203020,Dyer Plc,Retail,TRUE
+1e96fb9f-6963-4718-81be-3e5a6731a67e,Shaw-Butler,Services,TRUE
+07d4c125-4cb7-47cc-967c-c084383f7155,Brown Ltd,Restaurants,TRUE
+c822e40e-201d-4446-8fee-95d549a1cecf,Hopkins-Avery,Restaurants,FALSE
+01bb68a9-5a1b-41b2-8783-cc2884188f3e,Carpenter Llc,Transportation,TRUE
+60174353-a0b2-45f9-b744-caa0ef38c1ef,Reese Group,Restaurants,TRUE
+72037188-c60e-4fb4-9314-47f28132f5bc,"Mcintosh, Dominguez And Ward",Health Care,FALSE
+137cbe50-797f-4e78-8618-b88ea2f27d98,"Welch, Harper And Hogan",Restaurants,TRUE
+0f565556-76aa-4a6b-9b56-cde8510f1a26,Miller-Reynolds,Services,TRUE
+61a3eba0-8141-433e-9919-0d9131235982,"Mercer, Robinson And Watkins",Restaurants,TRUE
+18c36303-b1c5-433c-bbae-87d8753226a5,Smith And Sons,Restaurants,TRUE
+bd01052c-6520-4ffc-a5d1-a796e7071a08,Parker-Martin,Restaurants,TRUE
+a559b32f-b16e-4507-a6da-bf25c24dee0f,Robertson Inc,Retail,FALSE
+d70164c0-f3ce-4fca-b8ec-b451dd8e6ecb,Jenkins Inc,Retail,TRUE
+732fcb59-9010-44d0-996a-b71663296188,Goodman And Sons,Health Care,TRUE
+45bc51df-ee7a-4bc3-8b34-9c8bd8c143f6,"Smith, Moon And Welch",Retail,TRUE
+c9f0a4cd-14bd-4325-9220-e4fbd355b167,Rice-Walker,Restaurants,FALSE
+9d715a00-e37c-4342-a5c1-de97e5cb0a04,Stephenson-Davidson,Entertainment,FALSE
+bb94d782-7438-428f-92d5-823af1bce03c,Simpson-York,Retail,TRUE
+3a739fd1-6865-429b-951b-379f6b0a1313,Griffin Ltd,Retail,TRUE
+d611019a-3227-4647-b99f-736daeefbdf7,Garza And Sons,Health Care,FALSE
+1b297bfa-2f80-450a-86be-e1d57d6fcfb1,"Short, Williams And Foster",Services,TRUE
+3f09824f-4c57-443a-b143-b3a0f3bf9be6,"Beltran, Thompson And Smith",Restaurants,FALSE
+5ee8650b-4d43-420a-821b-35f2f25b4128,Fuller-Kaiser,Services,TRUE
+e75a2ce1-a366-4791-9380-9efca311aeec,Davila Inc,Restaurants,FALSE
+658d8a4c-b801-454e-896e-3b75838a8851,Torres Group,Restaurants,FALSE
+6ce0edab-15a2-4a78-8be5-f20a9f527468,"Smith, Morales And Smith",Restaurants,FALSE
+89908466-327a-4c65-8334-d204dad865f4,Robbins-Miller,Retail,FALSE
+a8525cc7-33a5-4b48-abce-72acf67fadd8,Rivas-Trujillo,Retail,TRUE
+8f38f0be-6d55-46af-9584-713915b0d41b,Collins Plc,Retail,TRUE
+a02cdf0a-e1e0-4b48-9b35-af073f071db7,Taylor And Sons,Services,TRUE
+1c1f4e72-0c2e-488a-b97b-3ed336767f86,"Murray, Watson And Hart",Retail,TRUE
+5ae1f90c-948c-4b33-beb5-19f74b451713,Palmer-Zuniga,Restaurants,TRUE
+942df838-3070-4e6f-9561-d30858e8c04d,Duarte-Contreras,Services,TRUE
+a2977234-d8bb-430d-b7de-e23d9c3a3945,"Lee, Perez And Barnett",Restaurants,FALSE
+30ff79ce-a181-4544-9578-cc4e222255ec,Cordova-Wilson,Health Care,TRUE
+d4bd9bcc-5abd-4cff-9957-5d1340c90e9b,Wright-Hernandez,Restaurants,FALSE
+1ff490e9-b505-4368-9609-a7eb63205a67,Potter-Ward,Restaurants,FALSE
+dd9852ba-7234-4c49-8cd4-321b44a7a972,Smith-Fox,Transportation,TRUE
+1f2112fd-b868-4e50-b1bf-2b327e207e18,Ford Plc,Health Care,FALSE
+11a2453e-09fd-47e8-9dfd-e798c6484692,Jones And Sons,Restaurants,FALSE
+12dcc78b-6a03-4074-89bb-8e1f43a81c7a,"Burgess, Graham And Sawyer",Restaurants,FALSE
+b929d755-a3bc-4d27-a84c-cd07a50186fe,Rice And Sons,Retail,TRUE
+772a1bc9-98ba-4b32-8ef5-d8f68f20edcd,"Smith, Rodriguez And Chang",Retail,TRUE
+e39bb97b-9046-47ca-9329-7060a953d92d,Cook Group,Retail,FALSE
+1e9c2266-681d-4945-bfb4-f2b08868751e,Rivera-Richards,Health Care,FALSE
+76234797-9178-4ebc-9778-5ae732dd5870,Smith Group,Entertainment,FALSE
+f6141f92-d6a3-4d3a-b662-697ae44edb57,"Blankenship, Melendez And Aguirre",Restaurants,FALSE
+8e4eccce-e7b2-4f0a-9389-e3a48e96ee5f,"Foster, Herrera And Peterson",Retail,FALSE
+2c38665e-f14f-4a53-b954-efb56b097402,Perez-Chase,Health Care,TRUE
+ca729523-05bc-4edc-b200-d94057612b88,"Crawford, Schwartz And Mendoza",Health Care,FALSE
+246c0da9-6e9b-427f-97bc-1d6de9fc8e89,Martin-Hensley,Restaurants,TRUE
+38016df1-b162-46c8-8980-160aec438943,"Hansen, Anderson And Clark",Restaurants,TRUE
+aed41b50-37cd-4043-94e5-01ce97294891,Mullen-Liu,Health Care,FALSE
+9b5c7410-1128-4199-966c-73f37bb1ca35,"Reese, Bean And Bentley",Restaurants,TRUE
+a5f8c85d-fabb-4f99-b1ff-bf8eeb6cc55c,Smith-Gallagher,Restaurants,FALSE
+b209e481-0575-492a-b05a-9510a23546e2,"Potter, Wells And Hamilton",Retail,TRUE
+90f81cb0-79ec-477c-b087-fccda7f917de,"Bailey, Ruiz And Tapia",Restaurants,FALSE
+73b08035-e30d-4099-8c08-26e2facfb39d,Johnson Group,Health Care,TRUE
+f53f35c6-2ca4-4838-a18e-f0d1f1a853e4,Sparks Llc,Retail,TRUE
+ca2f8429-6605-4dce-89c1-fc843038acc2,Mendez-Thomas,Retail,FALSE
+afab1bff-6ce0-4bc6-a8d0-b80a2ae76b98,"Hanna, Larson And Miller",Restaurants,TRUE
+a0815fce-fd62-48d3-af49-4c99eaf39e3d,Graham Inc,Services,TRUE
+583b5141-f632-4612-a0d7-a2adfaca52a2,Delgado Plc,Restaurants,TRUE
+e95d78a1-f04a-4db8-a14a-df53e9f2e21e,Bowen Plc,Restaurants,TRUE
+6a88a038-3ba9-4fff-ae8e-5ac3f433046c,Johnson Llc,Restaurants,TRUE
+7132058d-dd9e-4ae7-9575-9da270fe00ce,Morris And Sons,Restaurants,TRUE
+3479f819-21cb-4197-8a95-c8d750220529,Burke Group,Restaurants,TRUE
+d401fe00-09e9-4b51-85d7-334614b65f13,Crosby Ltd,Retail,TRUE
+ea0c0b22-9c7a-44e3-9fd3-bff621e9d957,"Meyer, Faulkner And Villarreal",Health Care,TRUE
+c72312af-a7ac-4407-842b-8df1ccbfe04b,Bond And Sons,Retail,FALSE
+1dbdbb08-75fc-4356-90f7-2dc9290b8502,"Smith, Cantrell And Arnold",Entertainment,TRUE
+33fa2d8a-c313-4dc5-a586-21ed00f4c485,"Perkins, Brown And Estes",Retail,TRUE
+65b53936-60a6-42a2-a0e6-0f8da2a4003c,Guzman-Morse,Restaurants,TRUE
+c9ec0359-d539-4585-98bd-c87eda9c44be,"Jones, Perez And Hamilton",Entertainment,TRUE
+a35587a9-fac8-462e-aa56-7a46d61cf83a,Jefferson Plc,Entertainment,FALSE
+9c77c5a0-950e-4f81-aea7-91bf1a7d5d72,Cervantes-Evans,Restaurants,TRUE
+98727a09-d566-4cd5-ba92-e3a05d6db338,Farmer Llc,Health Care,FALSE
+079c176d-ae71-44b9-aa58-62324181dc19,Mcguire Llc,Restaurants,TRUE
+605b06b4-6638-464b-b25e-fdb96ef70d39,Payne Group,Entertainment,FALSE
+1077042b-2124-41ec-9209-e42d7b8510e2,Doyle And Sons,Restaurants,FALSE
+4e288ffe-076b-45d1-b8f1-f2703ac31fa6,Reyes-Lucas,Restaurants,TRUE
+5b945f38-8410-4fdc-bc88-f33d0c750cc0,Terrell-Sutton,Retail,FALSE
+f0a0e4e3-b12c-43f1-a1a5-dafc8e05521f,"Moreno, Hernandez And Smith",Restaurants,TRUE
+10f344d4-850c-4cc0-93ef-a44d3ed2846a,"Robinson, Spencer And Mendoza",Retail,TRUE
+7886b617-8b04-41f6-97b5-2e60db34dfac,Davis-Castaneda,Restaurants,TRUE
+57776050-9c72-4d19-b2bb-7826c93d7e59,Thompson-Watson,Retail,TRUE
+43ca3525-85c0-4b1a-8fb5-e706d76e4c00,"Little, Wade And Aguirre",Services,TRUE
+69fa731a-1a3f-4777-a1d0-0d4741d2f5bf,"Curry, Patel And Elliott",Retail,FALSE
+e1342b1a-723f-48fb-8388-fcb9c56885f4,"Mcpherson, Foster And Young",Restaurants,TRUE
+48510102-539e-491f-a351-c777ab4912d5,Sweeney Plc,Retail,FALSE
+ce5f45a1-2aed-4a17-a937-711f73915354,Beard-Guzman,Restaurants,FALSE
+22f5b60c-1ee9-4786-a632-1be6f710092d,"Myers, Young And Bolton",Restaurants,TRUE
+84986d37-bc73-47a1-bfcf-8bee3269b06a,Dominguez Plc,Services,TRUE
+912fa75b-6daf-47b3-b99c-940c0ff76f7c,"Richardson, Bell And Zimmerman",Retail,TRUE
+e74f6cc9-b6b4-4f58-9857-1e27b61d4229,"Walker, Walker And Gallagher",Retail,TRUE
+dd4b7e02-5aa1-4aa0-a23c-1f10044a5146,"Underwood, Navarro And Sutton",Restaurants,TRUE
+a4a10d66-e099-4542-a2b6-1843e068bb62,"Jones, Wells And Todd",Restaurants,TRUE
+d86fa963-bb48-4346-9e8b-7cc359665042,Saunders And Sons,Services,TRUE
+0f75165a-ed83-47f7-a5bf-97c7c58eeb9c,"Hall, Howard And Sutton",Retail,FALSE
+f5de1403-972f-45ae-a3a8-16840dc09b52,Williams-Ford,Services,FALSE
+f4b916b1-5e48-4e34-8e00-698bf278e1f8,Harris Plc,Restaurants,FALSE
+dd8bbe47-303e-40a7-bd7b-75225360005a,"Brown, Carlson And Fleming",Restaurants,TRUE
+e0b5644c-e001-4dcd-ae9d-577277345bb3,Krueger-Meyer,Retail,FALSE
+22673ee3-cef7-4432-bcfa-8c97001cef56,"Gonzalez, Smith And Shepard",Restaurants,TRUE
+6f33a049-8b0a-4526-94cb-990ac8cf2540,Drake-Pennington,Restaurants,FALSE
+979313e5-0940-4be1-8f3d-d7ce451e4d6a,Walsh-Collins,Restaurants,TRUE
+c0a426e0-ac55-4381-8298-86b95f3c5bcf,"Robles, Graham And Roth",Retail,TRUE
+2738260f-afa3-4f24-bd9e-9a7d07d265c3,Peterson-Spears,Restaurants,FALSE
+d4fc1a17-d6ec-42e8-ba52-52213ac508f1,Stone Inc,Retail,FALSE
+825641f6-51fd-401d-a02b-ca11b8cafc77,Brown Llc,Entertainment,FALSE
+026414a6-e8ab-4f0c-aaa7-dc436957adad,Clements And Sons,Restaurants,TRUE
+cd717123-8853-4d7a-a7c4-6d634a64400c,"Anderson, Archer And Jensen",Retail,TRUE
+d15665c5-e9f4-46f2-9b3d-ad5527ffc541,Wall Ltd,Restaurants,TRUE
+0b402a2b-fe2a-4ab2-b50f-a77f258d14f2,Acosta Group,Retail,TRUE
+e8f1d8fe-9ca2-4d09-b556-de31d015a0b7,"Green, Olson And Brown",Services,TRUE
+aa6d6ed6-41dd-4d93-8ee5-c4770a1843b2,Adams Ltd,Restaurants,TRUE
+7254bc63-1a06-412a-b9f1-f0390196c44a,Stevens Group,Health Care,FALSE
+da8925a1-68ae-4691-ad59-ad2e15771e98,"Berry, Blake And Shah",Health Care,FALSE
+48b267bb-148c-4552-904d-d8e61edc21d7,Cowan-Mora,Entertainment,FALSE
+b06af74b-7698-4139-b88f-4a1a022bfd97,"Fields, Miller And David",Services,FALSE
+cf23124f-6324-4919-b8ff-9ac0102d70a9,Mitchell-George,Services,FALSE
+00d5f209-5f40-48e0-aaf0-1b06c2c69688,Rasmussen-Hunt,Services,FALSE
+689cbdfd-c223-4e91-b7e1-2ebf550ad770,Ramirez-Rodgers,Retail,FALSE
+9dcbb858-4b23-463d-94b0-1a157d63d858,"Stark, Barrera And Price",Retail,TRUE
+52ffae64-a6de-42c5-a488-431cdbcd8861,Cole-Carson,Transportation,TRUE
+9f2c1869-3c03-4b74-be5d-d84af3c9c74e,Maxwell And Sons,Restaurants,FALSE
+23cee310-9f3e-46a5-a52b-7b6bca95cb2a,"Wiggins, Scott And Mcmillan",Restaurants,TRUE
+25af98a7-4c7a-48e9-8765-d710aadcefa5,"Young, Smith And Reed",Restaurants,TRUE
+3beee4d5-46fa-4a22-81f6-bd9b10ec6671,"Schneider, Mills And Fowler",Restaurants,FALSE
+1d934f7e-7f02-487f-aa12-b4550f9f07b0,Frederick-Robertson,Retail,FALSE
+6aec4460-7300-4066-97c2-133d422368ab,Hernandez-White,Services,FALSE
+35842ba5-bea6-4ffe-ba6f-a47b40cb96b5,Reyes And Sons,Restaurants,TRUE
+799a3e7c-e871-4feb-bff0-bf69aa292f18,Vega-West,Retail,FALSE
+1628cc3e-b719-4ded-850c-c59a291152c3,Arnold-Brown,Retail,TRUE
+ffa6c4f9-9160-4450-8eba-b8754e1b98ba,Rocha-Taylor,Services,FALSE
+06065d94-b8e4-4d15-852d-29844a48564c,Mckinney-Wong,Retail,TRUE
+8554f802-b8ee-4873-a81f-3d4b471d1baf,"Moore, Cunningham And Webb",Restaurants,TRUE
+9a4a6ccf-d045-4489-bec7-7164d5de32a9,Anthony Ltd,Restaurants,FALSE
+87faaeda-86bd-4e99-b51a-f039389d8473,Yates-Pham,Restaurants,TRUE
+8d29cc66-3d48-410c-9b93-02f3fb80e415,"Ramirez, Parker And Mckinney",Restaurants,FALSE
+05971f49-6cf2-4d3b-a8cc-335fcb694f46,Vargas-Stout,Entertainment,TRUE
+68d42164-f10c-4ca8-aa3e-1986a91ac3a0,Weeks Ltd,Health Care,TRUE
+c7a8d7f3-9f18-47ad-8148-ceba1aaaa9f1,Marsh Plc,Retail,TRUE
+6bf3c975-a5c3-42e6-a11e-4d14f6d355fd,Knight-Sanders,Restaurants,TRUE
+b0830caf-2684-4750-80a1-e0657340efba,"Henderson, Williams And Vargas",Restaurants,FALSE
+ab8d3728-1460-4cab-ba06-f5268eb6fb31,"Chandler, Hoffman And Henry",Restaurants,TRUE
+aee78a11-0f20-4910-9048-cee3f3c83e53,Warren-George,Retail,FALSE
+3b9dea48-d624-4d77-b837-781c2c1e0a98,Payne Plc,Restaurants,FALSE
+e2e422b4-3817-4009-adc2-d03a6db36fc1,"Gibson, Evans And Gates",Entertainment,TRUE
+c36bda17-35ba-435d-b05c-0677f34b8e71,Gallagher-Rivera,Retail,TRUE
+cbf8c42f-ad77-4ccd-8c82-9496a8e79e1c,Robinson-Cabrera,Retail,FALSE
+eea7a02b-b020-48b0-90b0-643979c2b07a,Williams And Sons,Restaurants,FALSE
+a31ccf89-8e28-4342-bc36-f7b9e4b27dac,Skinner Plc,Restaurants,FALSE
+d956482c-09ea-4f57-b5f7-832b8a85d4ab,Black-Landry,Health Care,TRUE
+edb87a1a-69d3-481e-b674-07e9812f4100,Jones Ltd,Restaurants,FALSE
+3ba5f048-ade4-4394-aced-ae0ac725571c,Davis Llc,Restaurants,FALSE
+e54b3be8-a178-47a7-9fbd-2354b8ffe8d1,Jimenez And Sons,Retail,TRUE
+ae52ec74-f463-4ae1-838f-b79c63e2f3a3,"Keith, Edwards And Jones",Services,TRUE
+eccd3510-f610-467c-9eb0-467e643ff856,Gomez Llc,Restaurants,TRUE
+8b90b480-a45d-4c3c-b688-4b29be206ff4,Henry Plc,Services,FALSE
+c92c63ed-7a69-416f-b3f1-93dfe8c5b97d,Flores-Frost,Restaurants,FALSE
+1f6363b3-a70a-4322-9fdd-09bf3b6ea8fa,Pope And Sons,Restaurants,TRUE
+7f6b3004-c904-4be0-bf74-9b6e04bd4d0f,"Singh, Coleman And Avery",Health Care,FALSE
+c008326d-3c43-408b-a798-085c2f087a4d,Haley Ltd,Services,FALSE
+64440b4d-36f8-4cf7-957b-5ad06fe73686,"Garcia, Lee And Golden",Retail,TRUE
+61e8080c-a47e-4e04-8dca-c55f9a1a8e47,"Hudson, Walsh And Hernandez",Health Care,TRUE
+958336e8-3c47-4ab7-8676-a40f5359095a,"Fisher, Gonzalez And Williams",Retail,FALSE
+b148f14d-29ef-48ea-bd9c-75046217d821,"Tucker, Davis And Neal",Health Care,FALSE
+ec86952c-d24a-46d2-bda1-e055a5a8f392,Miller Ltd,Services,FALSE
+9069591c-9bed-4e8a-8f0e-7435822803b4,Price-Bailey,Restaurants,TRUE
+5d45d14f-b756-483b-803d-33c3ff3a0478,Hartman Inc,Services,TRUE
+67184e41-f302-485c-8712-937dcb858f09,"Hensley, Cannon And Lewis",Services,FALSE
+0ecb0d34-87ee-40bd-9d24-e454d2b65eb9,Mathews Inc,Restaurants,TRUE
+f65e73f4-125f-4e8c-80fc-f093f1f6b263,Rogers Llc,Retail,TRUE
+7b05b98f-5ed8-4531-8e42-a377b8b6b59b,"Mcdaniel, Wang And Rogers",Retail,FALSE
+94833d29-9eec-4cef-b2fe-1148259ad111,Herrera-Brooks,Restaurants,TRUE
+d7dca1db-955c-4fc5-8c5a-37d929e86cf5,"Howell, Zamora And Douglas",Restaurants,TRUE
+354ad18d-1cbf-44d2-a653-4b55d0b5e83e,"Ray, Shelton And Butler",Restaurants,TRUE
+e6505abe-bd77-4b57-a361-370815a53315,Winters Group,Restaurants,FALSE
+34935f46-0b33-4f01-bdf7-0287822dece0,Levy Ltd,Restaurants,FALSE
+a9ff427d-77d5-4010-9516-9537686d9dc2,White Ltd,Restaurants,TRUE
+d26d1fd8-ed38-4588-b932-bf724312f3ba,"Dyer, Mcclure And Parks",Services,TRUE
+377f662d-0299-461c-814f-6067d0f3486f,Quinn Inc,Health Care,TRUE
+6eee22f9-0475-45df-a0f4-016182f1c937,"Walters, Jacobs And Bailey",Services,TRUE
+0800d7d1-70ef-4a7d-aac4-372322ea7c80,"Galvan, Nelson And Cooper",Restaurants,FALSE
+ddbefd49-67b1-4992-95d0-2b3a4d4d2229,"Wolfe, Butler And Powers",Services,TRUE
+454225db-4830-4702-b403-924610b4a4bf,Richardson-Brooks,Health Care,FALSE
+b710f90d-ff34-4a99-bf2d-8e96fd9d80cf,Lewis-Smith,Restaurants,FALSE
+7d5dca8f-36a1-4be3-be88-3817d313a855,Hendricks-Jimenez,Services,TRUE
+2482fc83-8372-49b4-9ac2-0fb3c45e2b32,Patterson Ltd,Restaurants,FALSE
+ced12567-fd0b-4d43-ba6a-44a44dbd7d04,Rosales Group,Retail,FALSE
+260e9500-2069-4ba9-b2ef-72b302f545e6,"Love, Patton And Martin",Services,TRUE
+ef9a1aa6-5313-47c9-b0db-423a0abca507,"Wang, Rojas And Fleming",Health Care,FALSE
+f9c2decf-7e80-43ff-b313-4f0a7f4cc2da,Patton And Sons,Entertainment,TRUE
+da55d268-d743-4302-8f9a-d7ce8ba52e1b,"Huynh, Steele And Hamilton",Restaurants,TRUE
+c3194048-7f38-4ec4-9cc0-d512552a50ce,Murphy And Sons,Restaurants,TRUE
+f09a5309-e491-42c7-8fb3-29a2b61ae3c7,Mitchell And Sons,Restaurants,TRUE
+eabe7067-04df-4a7c-9c7a-e52c77a35b03,Adams Ltd,Entertainment,FALSE
+b2f9621f-35ca-4a53-b345-bbd45bea9621,Walker-Anderson,Retail,FALSE
+37080d3d-6866-4382-9be9-29bd572bc7a0,Lee-Diaz,Entertainment,TRUE
+6289b8c4-61ad-48f8-bf44-7b6784fe8a45,"Frey, Baker And Stephens",Entertainment,TRUE
+5c1582c1-8235-488a-8183-a34e30b2366d,"Olson, Higgins And Hanson",Restaurants,TRUE
+f4b36ba2-390f-4ac0-9159-af83b7e16394,"Jennings, Dean And Acevedo",Services,FALSE
+1a9ad3fe-d3d6-405f-81c0-414699a958bb,Taylor Group,Restaurants,TRUE
+536dfcb0-761d-42ab-8e3f-8ec4db2e1e86,Rodriguez-Dominguez,Retail,FALSE
+835215a8-c85a-483b-bbaa-6739021cbdc0,Adams Llc,Restaurants,TRUE
+6544fe3b-2d4b-48f1-b959-0dcb3a0b4b3c,Walsh Inc,Retail,TRUE
+308ee166-3816-4ae3-bd7a-d16b442b911c,Wilkerson-Sims,Restaurants,FALSE
+6247cef9-32ab-4364-b75c-9dcb84e80945,"Murphy, Warren And Lopez",Retail,FALSE
+2105b616-247a-4242-9869-30a9549a97c0,"Greene, Robertson And Shaffer",Services,FALSE
+a8ce0238-9e78-4913-8c04-a3283b18a04a,"Cunningham, King And Olson",Restaurants,TRUE
+3895273c-8bc7-4b67-937b-6e2a2fb869ab,Hayden-King,Restaurants,FALSE
+a5c985d1-1511-4149-9ec9-5d21c3786509,Reilly-Ryan,Restaurants,TRUE
+538b57b0-8d62-4e9f-b50d-2542b0179b74,Medina Plc,Restaurants,TRUE
+31bb58f0-4072-4073-9340-625d48335583,"Henderson, Waller And Avila",Retail,FALSE
+8b657294-7c05-4003-9cc1-f88f13bbaf85,"Allen, Gutierrez And Strong",Restaurants,TRUE
+c9e94ce5-ad49-48ae-b988-d354abcbff05,"Williams, Evans And Campbell",Restaurants,TRUE
+455dc6b0-e6d6-42c1-ba3a-eff943af408b,Kirby-Peterson,Retail,FALSE
+7b72afcc-42f1-40d8-a36c-f4ea541358dc,Taylor Inc,Retail,TRUE
+fa515a70-d1a6-4181-87e4-604f6f4108fd,"Gomez, Mitchell And Brock",Health Care,FALSE
+80998634-4bfb-4db0-b5dd-c98e37ee1519,Thomas-Diaz,Restaurants,FALSE
+09299e6e-4cef-4572-a3fa-1fc982e308cf,Jones-Sanchez,Restaurants,FALSE
+6697cdae-cfb4-46ae-bbba-8d09d242fae8,Jackson-Robinson,Services,TRUE
+65a71ca1-4185-4d76-8119-d7c95517a023,Harrison Llc,Retail,TRUE
+9016c958-d81f-43d2-8a1a-54f5ede0855b,Blankenship Inc,Retail,FALSE
+084d718f-4c5c-487e-88f6-6a4d86f43633,Barnes Inc,Health Care,TRUE
+4c1c5c7c-893b-4a42-9e47-b4bc56adf91d,Trujillo And Sons,Services,TRUE
+f26f6d04-7fc6-4d12-8e48-5c45d5525107,Brown Group,Retail,TRUE
+1091e597-7f70-42be-9d48-4fb0f34fe511,"Mitchell, Garrett And Villarreal",Services,TRUE
+2f00ff96-b3fa-4348-9052-3a9649922566,"Nguyen, Silva And Mejia",Restaurants,TRUE
+bf860a26-c15f-4a19-bc23-4e4863ee3468,Miller-Wilkerson,Entertainment,FALSE
+1982a9ca-f386-4f1d-bcb3-95f3e7764642,Martinez Plc,Retail,TRUE
+94e7baec-c1d6-4bb5-9513-fe8bff9dd96e,"Page, Brown And Tran",Retail,FALSE
+8f004906-d543-43a3-a1db-411947073554,Jones Group,Services,FALSE
+367c9413-04a5-4fa4-bc7a-b2929b4f9070,"Beard, Lane And Alvarez",Health Care,TRUE
+f8bd5b50-f640-462c-baf5-8d39a9b8a61a,Morales-Moore,Restaurants,TRUE
+ce500044-0435-43e7-b4c6-4382d749c0e6,Rodriguez-Salinas,Services,TRUE
+923fe479-ad5b-4b43-9271-a6bba02b747f,West Plc,Services,TRUE
+db14dc3e-0e68-4043-bed8-31270d71a99e,Ray Llc,Restaurants,FALSE
+3444ef7d-e6d6-4f08-a38b-6a93387c104f,Austin-Moon,Retail,FALSE
+05d686df-9358-46bc-871e-67bf536a625b,Meyers Ltd,Services,FALSE
+1fe42649-3368-4362-a69d-c5c166e54e07,Grimes Ltd,Restaurants,TRUE
+b952d18e-f994-4d99-ad4f-b94ab9b91923,Evans Ltd,Retail,TRUE
+aea08173-ce22-4e02-a3c7-5ca886bca513,"Austin, Hudson And Gallagher",Restaurants,TRUE
+f7b2e6f0-b432-4e4e-8628-cf2717b4307c,Singh Ltd,Health Care,FALSE
+40345f0a-4b02-4c2f-8b42-845aeecef7c9,Thomas-Lee,Entertainment,TRUE
+cdc60a23-1381-4956-8f2e-82690313132a,Chan Plc,Retail,FALSE
+4d5fd016-49e7-473a-9df1-4b3d56aefa79,"Nelson, Buchanan And Villarreal",Health Care,TRUE
+09d2bec9-9ee4-46bf-9185-591a256ee7f1,Vazquez-Smith,Retail,FALSE
+a861e3c7-f9e6-4864-bbc2-4efad39d4b54,"Castillo, Gibson And Hall",Retail,FALSE
+b514fb96-de1b-4d00-b6f1-f44b9502a19d,Roberts-Valdez,Services,TRUE
+ff2e37c7-0fe1-4e1e-9432-6704695e1368,Schneider And Sons,Services,FALSE
+c2e87e57-6193-438d-9118-1e5ff482b98b,Wells-Spears,Restaurants,FALSE
+27f6294f-a352-4305-b079-1ca5bca8c801,Wong Llc,Services,FALSE
+544261d2-d611-4f1b-a142-aef2b9d5471c,"Smith, Jacobs And Francis",Retail,TRUE
+f2c2f720-3fc1-4f89-bbd4-5464d83d08e3,Butler Inc,Services,FALSE
+a12724a8-5438-4096-a1e7-3a0d7e8fc01d,Smith-Neal,Services,TRUE
+1dd09ff4-5617-459b-a531-4d4800aec4ea,Ewing Plc,Retail,FALSE
+d680a0e4-3a2c-4939-8772-74cb2e838496,Martinez Ltd,Retail,TRUE
+0dae7568-b9e8-4f2c-a9ab-e36125863dda,"Ayala, Adams And Williams",Retail,FALSE
+0adc2b98-ff9c-4656-bdf6-946cc1b2d0d2,"Holt, Houston And Lewis",Restaurants,FALSE
+05f78fc0-50cd-46f8-acad-ee6360a6e1d8,"Edwards, Martin And Osborne",Restaurants,FALSE
+de5dcf2a-d3c6-480a-b0a6-73738d14049a,Koch-Martin,Restaurants,FALSE
+c82baa6c-7205-4f6a-ae5b-8aed5fb3fcd3,"Robinson, Smith And Fitzpatrick",Retail,TRUE
+8dd561be-6943-47a6-a3de-7e1b19d6931e,Morales-Spence,Restaurants,TRUE
+5f88bd9c-dacc-43f6-be94-026b9ae9b2d1,"Juarez, Orr And Schmidt",Services,FALSE
+87f858fb-72b9-44ac-9255-9b0cb1de57f3,Cooper Ltd,Services,FALSE
+99222b4c-d6c4-41a7-bd82-c91933df1fcc,"White, Anthony And Holt",Retail,TRUE
+32637c43-370d-4392-a4cb-677bd97d144e,Fuentes-Lawson,Restaurants,TRUE
+8016a7e0-23bc-4ab2-96ac-2922a10a4cf3,"Waters, Crawford And Rosales",Restaurants,FALSE
+0625f01a-fdd9-469c-b9fa-4ac78cea4ebc,Bender Llc,Restaurants,TRUE
+e0866c4a-cabe-40fd-affe-67d65d3936af,Harmon Ltd,Restaurants,TRUE
+1b42acee-67c1-40ca-a434-d0cb40949113,Hansen-Mills,Retail,TRUE
+f37acbd7-00a1-4565-b93a-0e2cde8575e8,"Charles, Ramirez And Moore",Services,FALSE
+1f9d0239-d089-4fbd-9ea9-b7486f839302,May Llc,Retail,FALSE
+1f53d578-4309-4f0b-a99f-64a2ec0a66cf,"Collins, Nguyen And Tucker",Retail,TRUE
+d1e52d24-7f8f-4b76-848c-993d80a37bb0,Yoder-Carter,Transportation,TRUE
+595a288c-c587-49af-abdf-f981be4f2ecf,Cannon-Hale,Services,FALSE
+cb618945-2346-462e-9b3f-b0f41221e4e3,Myers-Nguyen,Services,FALSE
+f5644b84-a737-48d4-bc18-ac326de3b124,Crosby Ltd,Retail,FALSE
+7f72895f-f3d0-4d64-9b06-2eaaf9bf71b9,"Levy, White And Moore",Retail,TRUE
+4606efc1-5aa2-4deb-86be-80dee710a413,Yang-Gardner,Restaurants,TRUE
+a9883be1-3ccf-4fe7-95a2-cdeef9e83b4a,"Coleman, Williams And Robinson",Retail,TRUE
+87c60856-6683-4322-a36e-ef34f1e4c291,"Sloan, Hart And Ball",Restaurants,TRUE
+369466f4-da7a-4472-af99-a0cc80c624d6,"Blankenship, Cunningham And Pollard",Transportation,FALSE
+ab8243a4-93b3-4fe9-9c22-d6f4807cdbcf,Miller-Stokes,Retail,FALSE
+660cd421-8ebf-441d-b1ce-cee09439bde2,"Bishop, Howard And Ross",Restaurants,FALSE
+9a274db1-cc39-4b91-846b-063e4e40db07,Lee Group,Services,FALSE
+c45e3b27-6fb3-4a99-a130-4ff6182a3b07,"May, Berry And Johnson",Health Care,TRUE
+8f7799dc-8e69-47a1-99a1-97344081e808,"Jennings, Bell And Gonzales",Retail,FALSE
+059d1c3a-1991-4fea-9a6f-daa46b959254,"Bryant, Mccann And Kerr",Restaurants,TRUE
+de38330e-189d-4b32-9169-599490aab18b,Cunningham-Wright,Health Care,FALSE
+4bc9d764-1b1f-40a9-8532-529f6a958ef3,Stone Llc,Restaurants,FALSE
+9b953efd-28ca-4608-8359-c0b0102362ed,Mcdowell-Castillo,Retail,TRUE
+868cccfd-fd06-4b28-aecb-c917eeb7fa6f,Alexander And Sons,Restaurants,FALSE
+22657f39-348d-45c9-bbbb-656c67bf80ce,Brooks-Barton,Services,FALSE
+62e1e3b9-3b00-4c2b-ac75-a899113476e5,Gutierrez Ltd,Retail,TRUE
+b34cc3b5-d8e7-4857-90d8-ca7692d0c48c,Mcgrath-Wright,Retail,FALSE
+c021fa91-5d44-4e7a-83fd-d2d49b36310c,Adams-Chan,Services,FALSE
+8d92178c-eaf6-408e-924a-7a8e269f2d37,Wyatt And Sons,Restaurants,FALSE
+55e404eb-1411-4f3d-92e4-504c4a9e2f98,Douglas Ltd,Restaurants,TRUE
+0013c211-8742-439c-a86e-9abd968ce2b9,"Patterson, Roberts And Mason",Services,FALSE
+67ffa5d8-6fdd-4712-a9f6-8f55d6365ece,Nelson Group,Services,TRUE
+6e3ce3fd-30ba-4e8c-95bc-f3172acdd41e,Bright Llc,Entertainment,TRUE
+6ee2127f-1746-4628-8625-5de8e6f622d6,Lee-West,Restaurants,TRUE
+47ebc123-6bb1-4d5d-a530-661ee29bc69e,Myers-Lane,Retail,FALSE
+cf0e8546-d512-4ce1-8e24-58845b57cbde,Santiago-Wu,Restaurants,FALSE
+48fa60fe-1eeb-42d5-b736-726341888c38,Bird Inc,Restaurants,FALSE
+fb5fb018-1f79-4615-a784-94dc4af1c747,Nixon Plc,Restaurants,TRUE
+e8da90e7-455a-46eb-ac74-fabef08ccba1,Perez Inc,Restaurants,TRUE
+00303918-20ac-47bf-b49e-7bd44ec696b5,"West, Foster And Obrien",Restaurants,TRUE
+c3fbe8a0-4313-4e9a-8d03-4d0aa711b111,"Cooper, Rogers And Spencer",Restaurants,TRUE
+9fe5c379-62b2-4333-97e0-9a4c31b1f0a0,"Rivera, Jordan And Reyes",Restaurants,FALSE
+aed9f932-3bb2-47f8-8841-95ac684cd6cf,Miller And Sons,Restaurants,TRUE
+27b839a7-493b-4cb2-ad14-691944ebc299,Patel-Martinez,Entertainment,FALSE
+e7b338b9-99b8-4521-b900-6a3d69611e2c,"Castro, Reyes And Hill",Restaurants,FALSE
+8963668b-1c71-4e7d-8d13-c0f244ca372f,"Wilkins, Jones And Jones",Restaurants,FALSE
+fc2882a2-8229-48ba-a1ae-1dfa3688aef6,Dominguez Llc,Retail,TRUE
+e974a2ad-2abe-43af-b2ed-08893ccada18,Fischer-Diaz,Restaurants,FALSE
+9b41bccb-1cc4-49b5-a820-8b6b70e7b63c,Pratt Group,Restaurants,FALSE
+d1ced562-7671-48c6-a089-dd979664cd6c,Hamilton-Mitchell,Restaurants,FALSE
+97de85ea-1f4b-4bd1-a164-4f602bf84109,White-Lowe,Retail,TRUE
+1fbe2e3e-c0db-4a56-be72-4fa1b1af4315,"Mckee, Reyes And Perkins",Restaurants,TRUE
+2b4faf27-92f2-42ac-bfd4-4c8102018806,Casey-Mathews,Restaurants,TRUE
+1b733cc3-0a92-43ce-a9a7-004da64ca5cb,"Long, Zhang And Arellano",Services,TRUE
+be57cf35-9ee0-40a5-bd90-d19a0983338c,Smith Plc,Retail,TRUE
+808527e0-b4af-4ccf-951f-0c69b2fedae6,Pratt-Williams,Retail,FALSE
+01ccaa7b-f8ff-4b0a-95f4-013204607b0d,"Murray, Schwartz And Heath",Services,FALSE
+0649b101-017e-45f8-a5ee-993bed1223c5,Miller And Sons,Restaurants,TRUE
+f83368ae-ab60-49f1-a4e0-2d4d55db5a8a,"Ryan, White And Burns",Restaurants,TRUE
+dbb6a764-fb42-48e8-bf3d-c5b6bbf3cbd8,Rhodes-Vargas,Restaurants,TRUE
+337b978f-83cd-4b64-8569-e6e800e83872,Smith Plc,Services,FALSE
+412ffb08-1f77-4e17-b986-d75ec4834b50,"Wright, Farley And Gomez",Restaurants,FALSE
+4cc25756-04c3-46ed-84a4-39878d5d34a9,Rowe Inc,Retail,TRUE
+874f57cb-ef3b-4e98-be29-ce68b4527921,Robinson-Potter,Services,FALSE
+3c05dc3f-209b-4336-9bdd-56bbc5a33638,Lynch Ltd,Restaurants,FALSE
+0cdafc65-2e88-499c-9b89-f9561521d27a,Carter Plc,Retail,FALSE
+55b528e0-4e8b-4497-8680-d32883faa8d8,Young Inc,Entertainment,TRUE
+53b7b381-d3ef-4dd6-9a0c-e655c2664c19,"Rollins, Beasley And Sparks",Services,FALSE
+a7c2313a-1229-43d7-91c1-6e3daaf68d94,"Perkins, Martinez And Snow",Retail,FALSE
+8e75ac39-7fd1-4331-97a7-08cee757c378,"Thompson, Coleman And Moreno",Services,TRUE
+1c137e58-7bb6-400e-8343-9a97ddffd61e,Blake-Nichols,Services,FALSE
+549f1418-0734-4c3e-bbdb-411fec92566d,Ryan Group,Restaurants,TRUE
+6945e1a2-3a92-4e04-a4aa-104d11d500b0,"Martin, Miller And Paul",Services,FALSE
+7dd00381-d48f-46af-a65d-345a0d9f0573,"Nelson, White And Rivera",Entertainment,TRUE
+5fc86421-43d3-4b47-9479-0b9209ca66a4,"Hardy, Castillo And Anderson",Restaurants,TRUE
+5f519b80-fd05-4918-8d95-19f4dba9a707,"Moreno, Horn And Simpson",Retail,TRUE
+7489ccaf-c119-4181-ae46-b0c608778957,Johnson Ltd,Transportation,FALSE
+6587210a-65d9-4732-be06-a1f0f011ecd8,"Long, Cantu And Vaughan",Health Care,FALSE
+de6fca29-3d03-4da4-aaca-bef476f5def7,"Johnson, Franklin And Scott",Restaurants,TRUE
+18229c97-9df8-48b1-94c7-c03078c2af05,Rose-Green,Restaurants,TRUE
+fb55b212-44fd-43d2-a144-b21dd9b6739e,Martin-Bishop,Restaurants,FALSE
+b0e87ab0-9947-4b53-92f2-67b23d4807c5,Kelley And Sons,Restaurants,FALSE
+788cca45-ff20-46a5-a7c8-557fd2e029a8,Bauer Ltd,Retail,FALSE
+16677638-5547-4245-9e34-6fd0b9555340,Delacruz-Garcia,Services,FALSE
+c93186c8-697d-4977-bc8e-3bd51bc1e0aa,"Williams, Sparks And Holmes",Restaurants,TRUE
+77e858d4-f3b0-43dd-bc0e-6c52855f64e2,Conley Plc,Retail,FALSE
+c4f2320c-a6ea-49e4-b0a5-9d1bca708da3,Cook-Reid,Restaurants,FALSE
+9ccc1cda-36f3-446f-9cd3-cf3d985ecda3,"Valentine, Terrell And Moore",Services,FALSE
+1c1f19fd-c525-4ac8-9cff-0f279d0c71e6,Mills-Parker,Restaurants,FALSE
+27303c83-1a23-44d4-aa4e-d1b211a20bf3,Murphy Plc,Retail,TRUE
+d1e1633b-6eab-454e-966f-bb29f84dead0,"Davis, Gibson And Shaffer",Services,FALSE
+068dc44c-85df-4a94-9705-c4449d9c75da,Maxwell Ltd,Transportation,TRUE
+71a7fb24-7af7-4c2f-9c4e-98879c6099bf,"Turner, Sanders And Hernandez",Retail,TRUE
+610abf68-383a-49a6-a16f-4d9ee6307cc9,Reyes Llc,Services,TRUE
+6c88f864-2850-417e-8dd7-33669fa55f76,Weiss Group,Health Care,TRUE
+fcc26c77-5efd-4b9a-9e0d-ab6e5b19b59e,"Simpson, Bowen And Ibarra",Restaurants,TRUE
+81e75b47-02c5-45cf-bd41-ae3dc22c5c27,"Nicholson, Richardson And Marshall",Restaurants,FALSE
+19f1a7ab-f315-44eb-9137-2810d77fa844,Smith-Baird,Retail,TRUE
+4ff428a5-1c7e-4236-aa8f-98a6ee2f6680,"Ferguson, Leonard And Lee",Retail,TRUE
+e0d73f38-d02d-4201-91d9-b4cd560349ac,Gutierrez-Hodges,Services,TRUE
+aeaae787-623e-4aaf-92c3-1afbdefac02b,Reynolds-Wolf,Health Care,TRUE
+68062526-df8c-451d-8b11-fc7fe049bd16,"Howard, Mcgee And Hudson",Services,FALSE
+35883e61-6635-42ae-952d-b42426412558,Todd-Smith,Restaurants,TRUE
+57123031-3c0e-4a1f-902e-2aa217e64af4,Reeves Inc,Retail,TRUE
+31627161-7f74-4f2f-a335-c6da61ad2888,Garcia-Smith,Restaurants,FALSE
+e188f2a5-d173-48b7-85f7-f1f7480d5296,Carlson Group,Retail,TRUE
+df2995ab-81b9-4966-aea8-a3f7ccc3034b,"Williams, Smith And Jefferson",Health Care,FALSE
+61bbe55d-502b-47ff-8ca0-8f0a4f0bfe32,Tran Ltd,Restaurants,TRUE
+1c86a884-af8d-4dab-a92c-10350172649e,"Freeman, Torres And Moody",Restaurants,TRUE
+3e81272c-3ad8-47f2-bb1e-3b021cf632ba,Butler-Bennett,Retail,FALSE
+337304a8-663f-47f7-a3d8-2e4b11a43bcd,"Ramirez, Macdonald And Palmer",Services,TRUE
+b58e164f-56ee-4f64-9164-aa18e29663b0,Turner Ltd,Health Care,FALSE
+0c3b5353-0e1a-4e46-bea0-ee777f605c99,Strickland-Clay,Entertainment,FALSE
+94bf1681-cb63-4700-94b4-672aa26a58ce,Powers-Allen,Services,TRUE
+e4474dc1-cab5-4c9c-a2dd-0b21789859c7,Ferguson Ltd,Restaurants,FALSE
+b640fae4-d91e-43ba-95e3-20cfb65e2377,Lynn Inc,Restaurants,FALSE
+69489dd6-debc-404c-8d7e-d1e78552805f,Sanchez Ltd,Retail,FALSE
+97287dae-0860-4947-9cc4-6c6ad998a2ef,Hamilton-Kirby,Services,FALSE
+5847fce3-4ec1-4ffa-abc7-080e9336229c,Larsen-Jacobs,Services,FALSE
+c09bcb7a-bb52-46f0-b3bf-5df569a785b3,Wilson-Garcia,Restaurants,TRUE
+3279f926-9b17-4713-90cc-af8c55b1513a,Vargas-Oneill,Retail,TRUE
+c11e8016-bf76-4e6a-9aee-e46ae203a0b7,"Little, Marsh And Lopez",Restaurants,FALSE
+48c9b041-9313-4329-9f02-d7c28b3c6599,Green-Humphrey,Retail,TRUE
+2ca7c57d-5e8f-4927-9fba-08ad1405bd28,Richardson-Bradshaw,Retail,TRUE
+519818ed-043a-4d75-abba-db5d358d322d,"Aguilar, Holland And Armstrong",Services,TRUE
+b13d215f-06a3-4ec7-b150-f51c37f63f9b,"Thomas, Miller And Bradshaw",Restaurants,FALSE
+fddd86ac-4fd6-4b59-8b06-75154c922f2a,"Long, Mack And Williams",Services,TRUE
+a398c7bc-d9ae-4986-a69a-be7f461d211f,Williams-Ramsey,Restaurants,TRUE
+e2974cee-68cc-4ee2-aebb-bcf9b0c9d570,"Brown, Nelson And Rose",Restaurants,TRUE
+2e0cc239-c921-4591-a99a-8416595f41ec,"Green, Smith And Ramirez",Restaurants,FALSE
+abf93a7f-d233-4d6f-86b9-0c864eca86ef,"Shields, Lewis And Conrad",Retail,TRUE
+a85615e4-4f8c-4f45-8937-8357876cc11d,Willis Ltd,Restaurants,TRUE
+781a69a9-f0c5-462c-ac8a-a90fd83321e5,"Smith, Ware And Moore",Services,TRUE
+c3aeec35-dd46-447d-b0b9-8ceb18f50974,"Atkins, Cunningham And Williamson",Services,FALSE
+3e3070ad-fcbb-4e8a-b07a-e8d065c9250b,"Campbell, Ross And Porter",Entertainment,TRUE
+2d8076fe-23d3-4dd8-8e7a-689176050bce,Dickerson And Sons,Restaurants,TRUE
+d970c844-2198-4e3b-ba8a-12f9f4f1cf52,"Myers, Sanchez And Burke",Restaurants,FALSE
+867a95ed-41fe-4fae-a256-6d7c2f6cd0f9,"Stokes, Mahoney And Miller",Retail,TRUE
+a6b9798c-4ee1-4af8-9862-e4cf0ded916b,Perez Inc,Entertainment,TRUE
+38e86b04-4318-44e6-991c-b27ddaaa0791,Garcia Llc,Retail,FALSE
+3931792d-81f7-48ab-a251-584e480a4150,"Escobar, Oliver And Suarez",Transportation,FALSE
+fdeec60f-7423-4fc6-8787-a71e246b5f5c,"Jordan, Taylor And Mason",Retail,FALSE
+e40886a7-b58a-4075-9249-bfacacaad8b8,Welch-Valdez,Services,FALSE
+fefdbd8c-99bf-4012-8c9b-83459e79cc8b,Bates-Andersen,Retail,TRUE
+26f4f7f2-31e8-4741-8f30-a34dc7a228b5,Poole-Butler,Restaurants,FALSE
+ece2708d-9f7a-4eb8-9870-15231388af84,Mathews-Mclaughlin,Health Care,TRUE
+b44e27b1-1e05-4ed1-8c28-26153ae974de,Murphy-Raymond,Restaurants,TRUE
+e206d80e-5d33-48f3-b545-0ed8cac3fced,Cunningham-Scott,Services,FALSE
+d635e523-d830-4ac0-8e55-03c34b590a05,Johnson-Bates,Retail,TRUE
+ee11b355-6a9f-421a-82a7-21ca1a7ed37d,"Perez, Lang And Long",Retail,TRUE
+7279c59b-b687-4056-8689-2e9ebd8adb34,Walsh Group,Transportation,FALSE
+15e751be-9a64-47b8-98e4-6c139232e76b,Clark Group,Health Care,FALSE
+8f83b335-1973-4cc8-90c7-a85ffa7529d3,Williams Llc,Restaurants,TRUE
+dd0e7dab-c2a9-4a37-9e8b-6485ac0bc86c,"White, Moore And Mccann",Services,TRUE
+e5d878d9-061e-46e1-b0f6-efe6826d75c0,Newton-Odom,Retail,FALSE
+3b6ecfd2-fc53-455d-b3e0-2d23efd8ff0e,Keith And Sons,Services,FALSE
+dcd89d88-911b-4934-aac2-7714a1099c61,Gonzalez-Ramos,Restaurants,TRUE
+b4a7c99d-f5c1-4123-b239-e1af6abca97c,"Hernandez, Nelson And Kelly",Restaurants,TRUE
+84c572ab-2455-4a95-a2db-092a91ba0762,Boyd-Huff,Retail,TRUE
+8598ca15-51a7-4275-88d6-71ae755df9ed,Garrison Plc,Entertainment,FALSE
+10decd83-3ab1-4f40-bef6-45cb200cfe5d,"Graham, Jenkins And Moreno",Retail,TRUE
+72d5d7c9-8b0e-452f-91c7-9d20bfec55ba,Valencia Ltd,Restaurants,FALSE
+cd760a02-a761-4233-8dc4-79cc395bf7dd,Foster Plc,Services,TRUE
+264059f7-d9d8-4fd3-909c-417cb0c8d733,"Doyle, Howard And Stewart",Services,TRUE
+25417b6e-9c0b-4bb0-870c-a7ef4eeea611,Lopez Ltd,Retail,TRUE
+1924d8dc-5ffd-4091-bdc5-9540eb97368d,"Oliver, Forbes And Flores",Restaurants,FALSE
+8d7c2fc5-5028-4ef5-bb51-c34a8200fd69,"Caldwell, Mayo And Riddle",Restaurants,FALSE
+6554df37-ee28-49ed-a4f2-16b0d8e9a9b0,"Reed, Jones And Fitzgerald",Retail,FALSE
+33418247-b7a0-47bd-8507-f18866c77517,"Yoder, Nichols And Thompson",Retail,TRUE
+34af84c9-67d0-4931-a687-88da75a43625,Wong-Reed,Restaurants,TRUE
+9a366465-fa89-45f8-bb19-d630a93b1986,Phillips-Moyer,Retail,TRUE
+b8741850-fb5c-4642-bc4b-5cc038aec7bf,"Hill, Prince And Jones",Services,FALSE
+67c9148e-91db-480e-8b89-2a41a2625c48,Kelly-White,Retail,FALSE
+c55ba60a-6017-4562-a261-273d41d2262a,Smith-Hardin,Retail,FALSE
+a3bfa827-2782-42d2-9aa3-24968b907620,Rodriguez Inc,Restaurants,FALSE
+64ba6939-2472-407e-a726-39f3f5f62b22,Vaughan-Mays,Restaurants,TRUE
+067dd9b1-2918-4f9d-b477-fccd4de13bbb,Hall-Morgan,Retail,TRUE
+1322ca9f-4a16-4792-83f9-7ce3e1b8d322,Kim-Lee,Retail,FALSE
+8b0d66d1-5a77-4aa1-847b-24f7cee38922,Miller Ltd,Restaurants,FALSE
+441e8cad-39e7-4640-b945-6b643ba1ba78,Mcdaniel-Schmidt,Restaurants,FALSE
+16d7dcf8-136a-4bef-bf83-2e58661ef95e,Farmer-Johnston,Retail,TRUE
+80b9ce9b-177b-411b-acaf-c7689b2e3ec7,"Jones, Cox And Miller",Restaurants,TRUE
+b613de22-874a-4c75-b91d-b346eee10dbe,Dennis-Giles,Services,TRUE
+3a990560-a19e-477b-bce4-a5d800f804cc,Bailey-Fischer,Restaurants,TRUE
+860cd179-81fb-487c-b3c2-967e67142490,Perez And Sons,Health Care,TRUE
+f9db8c66-8ff2-462d-8052-d14a317387ca,"Carter, Robertson And Pollard",Retail,FALSE
+eb8ab7f2-449a-430b-be61-c1b70e860cce,Ramirez-Sparks,Health Care,FALSE
+7afc1a49-0496-46a1-aaa2-53f3deb4a8d4,"Meza, Wilson And Cunningham",Restaurants,FALSE
+5f633346-359d-4c3c-b321-48dbf93ba222,"Reed, Ramirez And Archer",Services,TRUE
+f751dadd-dc57-415d-af73-6a3e62000fd9,Moss-Sandoval,Restaurants,FALSE
+83333811-ab6a-4e7f-8d01-3a81bfa0d447,"Morrison, Kennedy And Reyes",Services,FALSE
+f9bd599f-9828-4d81-b3a1-32e1ac23eeb5,"Kennedy, Lawrence And Johnson",Retail,FALSE
+4396422e-5da1-4485-acd7-1e56a1d86a86,Patton And Sons,Retail,TRUE
+d3fc3158-3251-45ba-98af-e46761c2b334,Pittman Ltd,Restaurants,FALSE
+4269ba4a-3946-4a2d-a79e-d2bcedfa879b,Wallace-Perez,Restaurants,TRUE
+1c259994-e5a3-4232-8f46-53cf74c35d8a,"Wyatt, Morris And Lam",Retail,FALSE
+d03737de-2121-47cf-8517-236f9f71e626,Lopez-Gomez,Restaurants,TRUE
+9d065c59-09bf-4fe3-afc3-d836bf08b2ce,King-Lopez,Restaurants,TRUE
+31601a7e-a97f-49e7-8b89-03a05fc2bed2,"Park, Donovan And Ford",Restaurants,TRUE
+9aa53010-e25c-48f6-8a4e-d595c23cf6b4,"Krueger, Cooper And James",Health Care,TRUE
+6bc25db1-a925-4870-bfad-21e35e9adef2,Turner And Sons,Services,FALSE
+adebd384-9f15-4966-aace-ef19291cf6aa,"Fischer, Hood And Patel",Services,FALSE
+b05e7f2b-e363-422b-901b-ef9a306afa91,Gonzalez-Jones,Retail,FALSE
+b63f33fd-ae48-4f7e-a371-d0e1528bc70e,Aguirre-Sharp,Health Care,TRUE
+141ac69f-9acb-48f5-9518-be7147543099,"Green, Poole And Martinez",Retail,TRUE
+59b32fe1-c75d-443a-b7d9-86be8b05e44e,Cummings-Porter,Restaurants,FALSE
+9b087130-4db8-415b-a37e-a06797a1d1ec,"Lewis, Brown And Salas",Retail,FALSE
+5aac8124-cd24-4449-a59f-ad97d5d303e7,Conner Inc,Services,TRUE
+2bdfe2bb-a97e-4e82-a1ff-e6164f74d822,Brown-Meyer,Restaurants,TRUE
+d52d4590-275b-4a6d-b9a6-e48d0e915943,"Carroll, Burgess And Williams",Entertainment,TRUE
+ee22dad1-e2fa-42a2-961c-692d3b8183d4,Holt-Thomas,Entertainment,FALSE
+a4ae33e8-aced-4e03-9b0e-569d1878f454,Hopkins-Schwartz,Services,TRUE
+c55d896e-ca66-4001-8c3b-da7d46e6821a,"Jackson, Morris And Choi",Health Care,TRUE
+f29d304f-0220-4700-aed7-54abe745ae31,"Elliott, Keller And Farmer",Restaurants,FALSE
+70ceb83a-c417-4952-8958-fb91b4bed92f,"Benson, Hess And Thomas",Health Care,FALSE
+63dd8c55-f05b-4ab7-b7a7-cfcdd46067ee,"Adams, Walker And Harmon",Services,FALSE
+d2146fb6-1ee0-418f-856e-a2292c4bbe56,"Cox, Page And Robinson",Restaurants,TRUE
+2c28e0f7-c3cf-4874-87b1-c51d049b2861,Gates Inc,Entertainment,TRUE
+4f6a7040-4b93-466e-8b62-54bf5afacdeb,"Bates, Keller And Miller",Services,TRUE
+7740efbf-6541-4b3d-a1d1-eed34f17d58a,Scott Inc,Services,TRUE
+30ecb934-076a-483d-8aa1-e6740559288e,Medina Group,Services,TRUE
+491502fa-5fc3-4606-92ac-aedfbb591959,Spencer Ltd,Restaurants,TRUE
+a47c0ca0-9e97-453f-b779-3c50b66656c2,Silva-Coleman,Retail,TRUE
+1dbc933e-61e4-4365-acd8-9480361dfbbc,Robertson Group,Restaurants,FALSE
+91295013-bd4c-4d60-8702-63742b8f38b0,"Myers, Perry And Reynolds",Retail,FALSE
+3b6514a8-1a9a-488e-942c-59c6f54988f0,"Estes, Curry And Johnson",Health Care,TRUE
+430e3784-3cfa-41b3-8d20-e381abfc3e75,Flores Group,Restaurants,TRUE
+7305046f-cc39-42a4-ac94-18aa0f39fd09,Le-Williams,Health Care,TRUE
+5b758db7-0623-42b8-8fde-741d8d043245,"Woods, Johnson And Campbell",Retail,FALSE
+024d2339-c7ab-48d5-b8d2-67725f6d1272,Mckenzie Llc,Retail,FALSE
+01ffe4cc-479a-4c7f-ba15-68c016a194e5,"Soto, Moody And Reynolds",Restaurants,TRUE
+7fc4dd8f-a687-4273-8a85-610e434a8f97,Carr-Castillo,Restaurants,TRUE
+a61cb6c2-55b5-46e7-9c59-291f9e225a99,Stephens-Meyers,Health Care,TRUE
+a4f8c148-862d-4eff-8916-b246e1da9b0c,"Gutierrez, West And Hines",Restaurants,TRUE
+878d9879-554f-40d3-8b55-52d1f01aac43,"Barton, Smith And Watson",Health Care,FALSE
+bb0e2452-7fe8-44af-ba84-6e24cc48ea72,Oliver Group,Retail,TRUE
+27d152d6-1540-41b1-842f-88a364e65562,Hamilton Inc,Restaurants,FALSE
+7813838e-3750-458d-8883-3829d0b4c73a,Mckee Inc,Restaurants,TRUE
+af71deae-4a80-40b2-8b10-af879dd5ff85,"Jackson, Baldwin And Moore",Restaurants,TRUE
+442cd836-ae3c-4368-b1f8-77f87e3c90d7,"Reynolds, Meza And Browning",Services,TRUE
+e594d074-d77e-4f9c-8faa-f67b57592189,Day-Martin,Services,TRUE
+8f2bd9cb-0c9b-410b-8ccf-8fb0ed137d6a,"Young, Stewart And Martinez",Health Care,TRUE
+b75033c1-f4c4-47e0-ac45-ff4b6531a85f,Robinson-Levine,Restaurants,FALSE
+53bb8291-1b32-42f2-8ced-ae9aa6f5fd7f,Parsons Plc,Services,FALSE
+fdc1356e-24a6-471c-a7e7-9bcd7108ffef,Duran-Huff,Restaurants,TRUE
+3d8e3417-9a08-45a0-8c41-e2527d18b31c,Evans-Fields,Services,TRUE
+86944248-13f6-4a51-9b14-748416c88301,Moses Inc,Restaurants,TRUE
+2e72c96b-6bf5-4c9c-83f2-c465d1c0f5fd,Fitzgerald-Wright,Retail,FALSE
